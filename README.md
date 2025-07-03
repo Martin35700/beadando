@@ -1,3 +1,7 @@
 Mobilprogramozás beadandó - Pannon egyetem
 
--Dömök Martin (ISFDBW) Programtervező informatikus
+-Dömök Martin Programtervező informatikus
+
+Mobile programming
+
+Calendar and time scheduling app
